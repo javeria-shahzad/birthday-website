@@ -97,7 +97,7 @@ export default function Ending() {
         </motion.h2>
 
         <p className="mt-6 text-gray-500">
-          — Yours Always 💖
+          — Your's future kids MOM  — 💖
         </p>
 
         <motion.div
