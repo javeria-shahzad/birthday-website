@@ -33,7 +33,7 @@ export default function Letter({ onNext }) {
 
           <p>
             Today is your day, but somehow I feel like I'm the one who received
-            the greatest gift all those years ago—the day you came into my life.
+            the greatest gift all those years ago the day you came into my life.
           </p>
 
           <p>
@@ -134,7 +134,7 @@ export default function Letter({ onNext }) {
             I love you more than words will ever be able to express,
             and I promise to keep choosing you,
             loving you,
-            and standing by you—
+            and standing by you 
             for every tomorrow that Allah blesses us with.
           </p>
 
